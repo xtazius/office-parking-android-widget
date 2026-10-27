@@ -1,9 +1,9 @@
 package ro.officeparking.widget;
 
 import android.app.Activity;
-import android.app.ActivityNotFoundException;
 import android.appwidget.AppWidgetManager;
 import android.content.ComponentName;
+import android.content.ActivityNotFoundException;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
