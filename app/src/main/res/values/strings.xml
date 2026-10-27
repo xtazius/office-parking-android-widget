@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Office Parking</string>
+    <string name="widget_description">Available office parking spaces</string>
+    <string name="widget_title">AVAILABLE SPACES</string>
+    <string name="widget_hours">Shown Mon-Fri, 07:00-16:00</string>
+    <string name="updated_at">Updated %1$s</string>
+    <string name="last_seen_at">Last seen %1$s</string>
+    <string name="app_description">See available office parking spaces on your home screen. The widget shows the count Monday to Friday, 07:00-16:00, in Romania time.</string>
+    <string name="add_widget">Add widget</string>
+    <string name="manual_add_instructions">You can also long-press an empty area of your home screen, choose Widgets, then choose Office Parking.</string>
+    <string name="add_widget_manually">Open your launcher Widgets list and choose Office Parking.</string>
+    <string name="open_dashboard">Open parking dashboard</string>
+    <string name="no_browser">No browser is available to open the dashboard.</string>
+</resources>
+

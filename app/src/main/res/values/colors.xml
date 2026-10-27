@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="parking_yellow">#FFBD05</color>
+    <color name="parking_yellow_dim">#8CFFBD05</color>
+    <color name="parking_dark_start">#343434</color>
+    <color name="parking_dark_end">#151515</color>
+</resources>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.OfficeParking" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:colorAccent">@color/parking_yellow</item>
+        <item name="android:statusBarColor">@color/parking_dark_end</item>
+        <item name="android:navigationBarColor">@color/parking_dark_end</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
+
