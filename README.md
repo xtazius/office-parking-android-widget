@@ -11,8 +11,12 @@ iPhone Scriptable widget. Scriptable is not used on Android.
 
 ## Install the APK
 
-1. Copy OfficeParking.apk to the phone and open the file. Android may ask you
-   to allow installation from your file manager before it installs.
+On your phone, sign in to your GitHub account and open the
+[latest release](https://github.com/xtazius/office-parking-android-widget/releases/latest).
+Tap **OfficeParking.apk** under **Assets** to download the APK directly.
+
+1. Open the downloaded OfficeParking.apk. Android may ask you to allow
+   installation from your browser or file manager before it installs.
 2. Open **Office Parking** once after installation. On launchers that support
    widget pinning, confirm the prompt to add the widget to your home screen.
 3. If your launcher does not show that prompt, long-press an empty area of the
